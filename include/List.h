@@ -2,6 +2,7 @@
 #include<iostream>
 #include<functional>
 #include<vector>
+#include <fstream>
 
 template <class T>
 class TNodeList
